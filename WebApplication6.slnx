@@ -1,4 +1,6 @@
 <Solution>
-  <Project Path="TestProject1/TestProject1.csproj" Id="0165ca4e-908a-4e57-b2df-2c31328ffeca" />
+  <Project Path="TestProject1/TestProject1.csproj" Id="0165ca4e-908a-4e57-b2df-2c31328ffeca">
+    <Build Solution="Debug|*" Project="false" />
+  </Project>
   <Project Path="WebApplication6/WebApplication6.csproj" />
 </Solution>
